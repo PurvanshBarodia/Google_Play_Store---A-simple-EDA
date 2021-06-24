@@ -1,2 +1,9 @@
-# Google_Play_Store---A-simple-EDA
-It is a course project of zero to pandas
+# Google_Play_Store-EDA
+It is a course project of zero to pandas offered by jovian.
+
+This includes below steps:
+1. Downlod an interesting data.
+2. Handle missing values.
+3. Convert 'Object' type numeric columns to 'flot64'.
+4. Understanding the data by EDA.
+5. Answer 4 interesting question.
