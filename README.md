@@ -7,3 +7,5 @@ This includes below steps:
 3. Convert 'Object' type numeric columns to 'flot64'.
 4. Understanding the data by EDA.
 5. Answer 4 interesting question.
+
+Dataset can be found wthin the notebook or you can download from kaggle-https://www.kaggle.com/lava18/google-play-store-apps
