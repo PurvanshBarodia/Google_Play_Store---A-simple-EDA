@@ -1,4 +1,4 @@
-# Google_Play_Store-EDA
+# Google_PlayStore-EDA
 It is a course project of zero to pandas offered by jovian.
 
 This includes below steps:
